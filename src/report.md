@@ -26,6 +26,7 @@ Dynamic Host Configuration Protocol (DHCP) — автоматический пр
 ![](screenshots/7.4.png)\
 ![](screenshots/7.5.png)\
 ![](screenshots/7.6.png)\
+![](screenshots/7.7.png)\
 ![](screenshots/7.8.png)\
 ![](screenshots/7.9.png)\
 ![](screenshots/7.91.pn)\
@@ -42,7 +43,6 @@ Dynamic Host Configuration Protocol (DHCP) — автоматический пр
 ![](screenshots/9.3.png)\
 ![](screenshots/9.4.png)\
 ![](screenshots/9.5.png)\
-![](screenshots/9.6.png)\
 ![](screenshots/9.6.png)\
 ![](screenshots/9.7.png)\
 ![](screenshots/9.8.png)\
