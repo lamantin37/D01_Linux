@@ -1,4 +1,4 @@
-<font size = 7> Установка ОС\
+<font size = 7> Установка ОС\ </font>
 ![Установка ОС](screenshots/1.png)\
 Создание пользователя\
 ![Создание пользователя](screenshots/2.png)\
@@ -62,4 +62,4 @@ Dynamic Host Configuration Protocol (DHCP) — автоматический пр
 Использование планировщика заданий **CRON**\
 ![Использование планировщика заданий **CRON**](screenshots/15.1.png)\
 ![](screenshots/15.2.png)\
-![](screenshots/15.3.png)\ </font>
+![](screenshots/15.3.png)\
