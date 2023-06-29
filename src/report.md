@@ -25,13 +25,23 @@ Dynamic Host Configuration Protocol (DHCP) — автоматический пр
 ![](screenshots/7.2.png)\
 ![](screenshots/7.3.png)\
 ![](screenshots/7.4.png)\
+:wq - выход с сохранением\
+:qa - выход без сохранения\
+:s/pattern1/pattern2 - замена pattern1 на pattern2\
+I - режим редактирования\
+Esc - выход из режима редактирования\
 ![](screenshots/7.5.png)\
 ![](screenshots/7.6.png)\
 ![](screenshots/7.7.png)\
+CTRL + X / Y / Enter - выход с сохранением
+CTRL + X / N - выход без сохранения
 ![](screenshots/7.8.png)\
 ![](screenshots/7.9.png)\
 ![](screenshots/7.91.png)\
 ![](screenshots/7.92.png)\
+F2 + F10 - выход с охранением
+F10 - выход без сохранения
+F4 / pattern1 / pattern 2 /replace - замена
 Установка и базовая настройка сервиса **SSHD**\
 ![Установка и базовая настройка сервиса **SSHD**](screenshots/8.1.png)\
 ![](screenshots/8.2.png)\
